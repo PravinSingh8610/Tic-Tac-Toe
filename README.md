@@ -76,4 +76,14 @@ You can also use the **Live Server** extension in Visual Studio Code.
 ## 🔮 Future Enhancements
 
 - Add a restart game button.
-- Introduce a computer (
+- Introduce a computer (AI) opponent.
+- Add score tracking for both players.
+- Improve animations and responsive design.
+
+## 🔗 GitHub Repository
+
+[View Tic-Tac-Toe Project](https://github.com/PravinSingh8610/Tic-Tac-Toe)
+
+## 📄 License
+
+This project is created for educational and learning purposes.
